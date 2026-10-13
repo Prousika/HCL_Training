@@ -2,11 +2,6 @@ public class MonthlyUsageAnalyser {
 
     public static void main(String[] args) {
 
-        final long SLAB1_RATE = 2;
-        final long SLAB2_RATE = 3;
-        final long SLAB3_RATE = 5;
-        final long SLAB4_RATE = 7;
-
         int[] monthlyUsage = {
                 120, 150, 180, 220,
                 250, 300, 280, 260,
